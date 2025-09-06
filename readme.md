@@ -23,6 +23,8 @@ NEWS_API = "your_news_api_key"
 WEATHER_API = "your_weather_api_key"
 
 ##Example Output
+
+
 === Shanghai Port Update ===
 Date and Time: 2025-09-03 17:29:35 IST
 
@@ -39,7 +41,8 @@ Weather:
 
 Port Jam Status:
   - __________________________
-  - or some times
+  - or 
+  - --
   -Port jam data not available. Check login or website.
 
 ####Notes
