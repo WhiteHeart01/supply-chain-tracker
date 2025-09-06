@@ -22,7 +22,7 @@ The tool runs a Python script (`agents.py`) that:
 NEWS_API = "your_news_api_key"
 WEATHER_API = "your_weather_api_key"
 
-##Example Output
+## Example Output
 
 
 === Shanghai Port Update ===
@@ -42,13 +42,12 @@ Weather:
 Port Jam Status:
   - __________________________
   - or 
-  - --
   -Port jam data not available. Check login or website.
 
-####Notes
+#### Notes
 
 Port Jam Fix: If "Not found" shows, update login_data in agents.py with your GoComet email and password. Check the website’s HTML for the correct tag.
 Security: Add keys.py to .gitignore to keep API keys safe (already included).
 
-#Contributing
+# Contributing
 Feel free to suggest improvements or fix issues by forking this repo and submitting a pull request!
